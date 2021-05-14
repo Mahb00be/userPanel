@@ -1,0 +1,8 @@
+appdirs
+Django
+djangorestframework
+packaging
+pyparsing
+pytz
+six
+django-phonenumber-field[phonenumbers]
